@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Cassiano Viera👋
 
-<!--
-**CVsilvaa/CVsilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **Entry-Level Cybersecurity Analyst | Google Certified**
 
-Here are some ideas to get you started:
+Currently focusing on SOC Operations, Threat Detection, and Incident Response. 
+Background in technical hardware maintenance & electronics, leveraging a strong problem-solving mindset for Information Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Security Operations:** SIEM (Chronicle/Splunk), Log Analysis, NIST Framework
+- **Network & OS:** Linux, TCP/IP, Wireshark, Packet Analysis
+- **Automation & Queries:** Python for SecOps, SQL database queries
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/cassiano-viera-da-silva-2a783b111/) | `cassianpro@yahoo.com.br`
